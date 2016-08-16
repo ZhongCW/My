@@ -1,1 +1,8 @@
 encoding: utf-8
+
+# author
+author:
+  name: 'ZhongCW'
+  _img: 'static\imgs\TiaoShui.jpg'
+
+baseurl: "/"
